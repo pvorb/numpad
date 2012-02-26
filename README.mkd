@@ -4,7 +4,7 @@ pad numbers with leading zeros.
 
 ## Installation
 
-`npm install notepad` or `ender add notepad`
+`npm install numpad` or `ender add numpad`
 
 ## API
 
