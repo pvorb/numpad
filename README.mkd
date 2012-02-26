@@ -12,8 +12,10 @@ pad numbers with leading zeros.
 numpad(x, digits);
 ```
 
+Returns a string that is padded with leading zeros.
+
 *   `x`      Number
-*   `digits` Number of digits
+*   `digits` Number of digits (defaults to 2)
 
 ## Usage
 

@@ -1,6 +1,6 @@
 {
   "name": "numpad",
-  "description": "numpad",
+  "description": "padding for numbers",
   "author": "Paul Vorbach <paul@vorb.de> (http://vorb.de/)",
   "tags": [ "integer", "padding" ],
   "version": "0.0.0",
