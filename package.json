@@ -1,0 +1,27 @@
+{
+  "name": "numpad",
+  "description": "numpad",
+  "author": "Paul Vorbach <paul@vorb.de> (http://vorb.de/)",
+  "tags": [ "integer", "padding" ],
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pvorb/numpad.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pvorb/numpad/issues"
+  },
+  "main": "./numpad.js",
+  "engines": {
+    "node": "*"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://vorb.de/license/mit.html"
+    }
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
